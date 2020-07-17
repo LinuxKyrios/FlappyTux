@@ -1,4 +1,4 @@
 # FlappyTux
 Tux version of Flappy Bird created with pygame
-![Alt text](https://user-images.githubusercontent.com/60759402/87735277-5e2a1880-c7d5-11ea-8be5-6b1e5df734bd.png?raw=true "Flappy Tux")
-![Alt text](https://user-images.githubusercontent.com/60759402/87735283-61bd9f80-c7d5-11ea-86f3-73c9a89e1e26.png?raw=true "Flappy Tux 2")
+![Alt text](https://user-images.githubusercontent.com/60759402/87735785-c88f8880-c7d6-11ea-9ee2-d9bc667deff4.png?raw=true "Flappy Tux")
+![Alt text](https://user-images.githubusercontent.com/60759402/87735789-ca594c00-c7d6-11ea-995b-fcb1bc408c03.png?raw=true "Flappy Tux 2")
